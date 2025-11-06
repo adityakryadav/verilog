@@ -1,0 +1,2 @@
+# verilog
+assignment of dsd
